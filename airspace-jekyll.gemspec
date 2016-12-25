@@ -1,12 +1,12 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "airspace-jekyll"
+  spec.name          = "ConsueloPoveda"
   spec.version       = "0.1.0"
-  spec.authors       = ["LuminousRubyist"]
-  spec.email         = ["LuminousRubyist@users.noreply.github.com"]
+  spec.authors       = ["Piperod"]
+  spec.email         = ["ivan.rodriguez5@upr.edu"]
 
-  spec.summary       = %q{A port of ThemeFisher's Airspace theme. https://github.com/themefisher/airspace-free-html5-agency-template}
+  spec.summary       = %q{La Felicidad De La Familia}
   spec.homepage      = "http://example.com"
   spec.license       = "MIT"
 
